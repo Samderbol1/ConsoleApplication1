@@ -31,6 +31,7 @@
     <ClCompile Include="5.1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="5.5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -40,6 +41,10 @@
     <ClCompile Include="5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+=======
+    <ClCompile Include="5.5.cpp" />
+    <ClCompile Include="5.cpp" />
+>>>>>>> 8817943d4d45626f0dfd4797cd01768108caadf0
     <ClCompile Include="4.2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

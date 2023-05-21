@@ -48,6 +48,7 @@
     <ClCompile Include="5.5.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="5.8.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -60,5 +61,7 @@
     <ClCompile Include="FileName4.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+=======
+>>>>>>> 8817943d4d45626f0dfd4797cd01768108caadf0
   </ItemGroup>
 </Project>
